@@ -1,0 +1,13 @@
+/target/
+
+#IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+#debug
+**/*.rs.bk
+
+!Cargo.lock

@@ -1,0 +1,4 @@
+#Incase anyone of us is using clippy extenstion, if not we can remove this file
+
+cognitive-complexity-threshold = 20
+too-many-arguments-threshold = 10

@@ -1,0 +1,17 @@
+[package]
+name = "hashassin_core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tracing = "0.1"
+rand = "0.8"
+md-5 = "0.10"
+sha2 = "0.10"
+sha3 = "0.10"
+scrypt = "0.11"
+hex = "0.4"
+thiserror = "1.0"
+digest = "0.10"
+blake3 = "1.5"
+argon2 = "0.5"
